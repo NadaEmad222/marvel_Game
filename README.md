@@ -12,7 +12,7 @@ This is a two-player game with the theme of Marvel Ultimate War in which each pl
 
 ## How to Run
 
-1. Install eclipse JDK from here (https://www.eclipse.org/downloads/packages/installer "eclipse")
+1. Install eclipse JDK from [here](https://www.eclipse.org/downloads/packages/installer "eclipse")
 2. Download the game's ZIP file OR fork and clone into your local respository
 3. Open the command line terminal (or Windows PowerShell), navigate to the local repository and run the console.java file
 4. play and enjoy :) 
